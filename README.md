@@ -5,7 +5,7 @@
 
 vscode와 vscode 내의 터미널을 사용하면 훨씬 편리합니다.
 
-###1. git clone
+### 1. git clone
 ```
 $ git clone <repo link> 를 통해서 파일을 다운 받습니다.
 ```
