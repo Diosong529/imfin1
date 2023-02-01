@@ -55,9 +55,10 @@ Quit the server with CTRL-BREAK.
 나오면 
 http 링크를 복사해서 주소창에 붙혀 넣어 실행시켜 봅니다.
 
+# 계정 ID 비밀번호
 
-
-
+syh4533
+sG199500
 
 
 
